@@ -63,8 +63,6 @@ Gosto de transformar ideias em projetos reais, sempre buscando evoluir minhas ha
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielPinheiroAmaral&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielPinheiroAmaral&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielPinheiroAmaral&theme=github_dark)
 
