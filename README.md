@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Amaral
 
-**`Desenvolvedor FullStack`**
+**`Software Engineering Student`**
 
 Olá! Me chamo Gabriel Pinheiro Amaral 👋
 
